@@ -57,5 +57,5 @@ This is full-stack web application that ensures robust security for user data th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/AnkitChopde/kryzen_assignment.git
    cd your-repository
